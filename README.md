@@ -18,7 +18,7 @@ git clone https://github.com/charlesgreen/keras_inception_resnet_v2_api.git
 cd keras_inception_resnet_v2_api
 ```
 
-3. Create a new environment ( Change python=2 or python=3) and activate it:
+3. Create a new python 3.x environment and activate it:
 ```
 conda create --name keras-server -y python=3
 source activate keras-server
