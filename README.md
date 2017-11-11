@@ -1,11 +1,10 @@
-## Keras-rest-server: A simple rest implementation for loading and serving keras models
-------------------
-## About:
-This repository contains a very simple server implemented in flask which loads a
-a simple neural network model trained using Keras from its saved-weights and
-model.
+# keras_inception_resnet_v2_api
+Implement an image classification web api using keras_inception_resnet_v2 model and keras-rest-server.
 
-In this example a very simple case of XOR is considered.
+---
+
+This repository is based on the [ansrivas/Keras-rest-server](https://github.com/ansrivas/keras-rest-server) for loading and serving keras models as an API using flask.
+
 ## Getting started:
 ---
 1. Install Anaconda:
@@ -15,8 +14,8 @@ https://docs.continuum.io/anaconda/install
 
 2. Clone this repository
 ```
-git clone https://github.com/ansrivas/keras-rest-server.git
-cd keras-rest-server
+git clone https://github.com/charlesgreen/keras_inception_resnet_v2_api.git
+cd keras_inception_resnet_v2_api
 ```
 
 3. Create a new environment ( Change python=2 or python=3) and activate it:
