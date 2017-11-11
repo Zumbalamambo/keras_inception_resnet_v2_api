@@ -100,3 +100,6 @@ ENV/
 
 # pycharm IDE
 .idea/
+
+# pickle files
+pickles/*
