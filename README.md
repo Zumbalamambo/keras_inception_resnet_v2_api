@@ -1,8 +1,9 @@
 # keras_inception_resnet_v2_api
-Implement an image classification web api using keras_inception_resnet_v2 model and keras-rest-server.
 
 [![Updates](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/shield.svg)](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/)
 [![Python 3](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/python-3-shield.svg)](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/)
+
+Implement an image classification web api using keras_inception_resnet_v2 model and keras-rest-server.
 
 This repository is based on the [ansrivas/Keras-rest-server](https://github.com/ansrivas/keras-rest-server) for loading and serving keras models as an API using flask.
 
