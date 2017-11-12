@@ -7,6 +7,7 @@ Implement an image classification web api using keras_inception_resnet_v2 model 
 
 This repository is based on the [ansrivas/Keras-rest-server](https://github.com/ansrivas/keras-rest-server) for loading and serving keras models as an API using flask.
 
+
 ## Getting started:
 ---
 1. Install Anaconda:
@@ -23,17 +24,17 @@ cd keras_inception_resnet_v2_api
 3. Create a new python 3.x environment and activate it:
 ```
 conda create --name keras-server -y python=3
-source activate keras-server
+source activate keras_inception_resnet_v2_api
 ```
 
 4. Install all the dependencies:
 ```
-conda env update -n keras-server  --file requirements.txt
+conda env update -n keras_inception_resnet_v2_api  --file requirements.txt
 ```
 
 5. To remove the environment run:
 ```
-conda remove -n keras-server --all -y
+conda remove -n keras_inception_resnet_v2_api --all -y
 ```
 
 ### Usage
