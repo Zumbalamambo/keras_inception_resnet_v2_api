@@ -1,7 +1,7 @@
 # keras_inception_resnet_v2_api
 
-[![Updates](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/shield.svg)](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/)
-[![Python 3](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/python-3-shield.svg)](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/)
+[![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/charlesgreen/keras_inception_resnet_v2_api/) [![Updates](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/shield.svg)](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/) [![Python 3](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/python-3-shield.svg)](https://pyup.io/repos/github/charlesgreen/keras_inception_resnet_v2_api/) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/charlesgreen/keras_inception_resnet_v2_api/blob/master/LICENSE) [![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](http://charlesgreentensorflow.readthedocs.io/en/latest/)
+
 
 Implement an image classification web api using keras_inception_resnet_v2 model and keras-rest-server.
 
